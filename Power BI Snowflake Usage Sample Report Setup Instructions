@@ -1,0 +1,11 @@
+
+Following are basic instructions to setup the Power BI Snowflake Usage Sample Report which was initially created by Matt Fekitoa and streamlined for users familiar with Snowflake.  If you're new to Snowflake or Power BI and would like additional detail, please see visit Matt's project page (https://github.com/mattfeks/Snowflake-PowerBI)) or contact me on LinkedIn at https://www.linkedin.com/in/jerellegainey/.
+
+
+1.  Download the file:  Snowflake SQL.txt
+2.  Download the Power BI Report:  Snowflake_Usage_Sample_Report.pbix
+3.  Follow the instructions in the Snowflake SQL.txt to create the Snowflake objects.
+4.  Once you've created the Snowflake objects, open the Power BI report and update the connection settings (you'll need to update the Server and you'll need to enter the authentication details (which should be the user you created PBI_Snowflake_Reader and the password you assigned)
+5.  Hit refresh and the report will update with data from your account.
+
+Feel free to contact me with questions! 
